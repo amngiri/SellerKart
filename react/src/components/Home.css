@@ -1,0 +1,86 @@
+div .bg-image1 {
+  background-image: url("../data/homepic.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+  color: white;
+}
+div .bg-image2 {
+  background-image: url("../data/rhome.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 800px;
+  width: 100%;
+  color: white;
+}
+
+.bg-image1 .text-header5 {
+  float: left;
+  margin-right: 5%;
+  margin-top: 4%;
+  text-align: left;
+  color: white;
+  text-shadow: 2px;
+}
+.bg-image1 .text-header {
+  float: right;
+  margin-right: 5%;
+  margin-top: 10%;
+  text-align: center;
+  color: white;
+  text-shadow: 2px;
+}
+.bg-image1 .text-header1 {
+  float: left;
+  margin-right: 6%;
+  margin-top: 6%;
+  text-align: center;
+  color: white;
+  text-shadow: 2px;
+}
+.bg-image1 .text-header2 {
+  float: left;
+  margin-right: 5%;
+  margin-top: 6%;
+  text-align: center;
+  color: white;
+  text-shadow: 2px;
+}
+.bg-image1 .text-header3 {
+  float: left;
+  margin-right: 5%;
+  margin-top: 6%;
+  text-align: center;
+  color: white;
+  text-shadow: 2px;
+}
+
+.bg-image2 .text-header {
+  float: right;
+  margin-right: 5%;
+  margin-top: 9%;
+  text-align: center;
+  color: white;
+  text-shadow: 2px;
+}
+
+div .bg-image3 {
+  background-image: url("../data/rhome.jpg");
+
+}
+div .bg-image4 {
+  background-image: url("../data/wh1.jpg");
+  
+}
+div .bg-image6 {
+  background-image: url("../data/wh1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 800px;
+  width: 100%;
+  color: white;
+}

@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik&display=swap");
+
+.body-foot {
+  background: linear-gradient(0deg, #fff, 50%, #deeefe);
+  font-family: "Rubik", sans-serif;
+  background: #455a64;
+  height: 100 !important;
+}
+
+.container-fluid-footer {
+  overflow: hidden;
+  margin-top: 250px;
+  background: #262626;
+  color: #627482 !important;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.small-foot {
+  font-size: calc(
+    12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))
+  ) !important;
+}
+
+.bold-text-foot {
+  color: #989c9e !important;
+}
+
+.mt-55-foot {
+  margin-top: calc(
+    50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))
+  ) !important;
+}
+
+.h3-foot {
+  font-size: calc(
+    34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))
+  ) !important;
+}
+
+.social-foot {
+  font-size: 21px !important;
+}
+
+.rights-foot {
+  font-size: calc(
+    10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))
+  ) !important;
+}
+
+.footer-bg {
+  background-color: black;
+  color: white;
+}
